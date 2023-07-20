@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4139AC192A68BC3D00543BE5 /* String-EmptyChecking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4139AC182A68BC3D00543BE5 /* String-EmptyChecking.swift */; };
 		41B349502A673C9C00BFA50F /* CupcakeCornerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B3494F2A673C9C00BFA50F /* CupcakeCornerApp.swift */; };
 		41B349522A673C9C00BFA50F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B349512A673C9C00BFA50F /* ContentView.swift */; };
 		41B349542A673C9E00BFA50F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41B349532A673C9E00BFA50F /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4139AC182A68BC3D00543BE5 /* String-EmptyChecking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String-EmptyChecking.swift"; sourceTree = "<group>"; };
 		41B3494C2A673C9C00BFA50F /* CupcakeCorner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CupcakeCorner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41B3494F2A673C9C00BFA50F /* CupcakeCornerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeCornerApp.swift; sourceTree = "<group>"; };
 		41B349512A673C9C00BFA50F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				41B349512A673C9C00BFA50F /* ContentView.swift */,
 				41B3496A2A6774F300BFA50F /* CheckoutView.swift */,
 				41B349682A6771BE00BFA50F /* AddressView.swift */,
+				4139AC182A68BC3D00543BE5 /* String-EmptyChecking.swift */,
 				41B349662A676E9700BFA50F /* Order.swift */,
 				41B3495F2A673CD300BFA50F /* Tutorial */,
 				41B349532A673C9E00BFA50F /* Assets.xcassets */,
@@ -168,6 +171,7 @@
 			files = (
 				41B349632A67601800BFA50F /* LoadingImageFromServer.swift in Sources */,
 				41B349522A673C9C00BFA50F /* ContentView.swift in Sources */,
+				4139AC192A68BC3D00543BE5 /* String-EmptyChecking.swift in Sources */,
 				41B349612A6757E900BFA50F /* SendingRecievingCodableDataURLSession.swift in Sources */,
 				41B349652A67640B00BFA50F /* Validating&DisablingForms.swift in Sources */,
 				41B349502A673C9C00BFA50F /* CupcakeCornerApp.swift in Sources */,
